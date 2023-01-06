@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Signin from './Components/Signin';
 
 import './App.css';
@@ -6,7 +5,6 @@ import './App.css';
 function App() {
   return (
   <>
-    
     <Signin/>
     </>
     
